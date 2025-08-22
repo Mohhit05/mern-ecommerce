@@ -44,5 +44,5 @@ Includes both **Admin Panel** (for product management) and **Shopping View** (fo
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/mern-ecommerce.git
+   git clone https://github.com/Mohhit05/mern-ecommerce
    cd mern-ecommerce
